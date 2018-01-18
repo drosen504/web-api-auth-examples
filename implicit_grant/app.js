@@ -1,3 +1,5 @@
+'use strict';
+
 /**
  * This is an example of a basic node.js script that performs
  * the Implicit Grant oAuth2 flow to authenticate against
